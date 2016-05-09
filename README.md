@@ -3,9 +3,10 @@ RP Thin is a thin client desgined to run on a rasbarry pi and connect to a serve
 
 
 ## Architecture
+Arm
 
 ### Server
-Some details about the server here
+A server running open stack
 
 ### Client
-Some details about the client here
+RPThin is designed to work off of a Rasberry Pi
